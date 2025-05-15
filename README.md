@@ -1,1 +1,1 @@
-![1](assets/image.png)
+![1](img/image.png)
